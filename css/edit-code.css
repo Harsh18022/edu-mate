@@ -1,0 +1,7 @@
+.section-title{
+    text-align: center - calc(20px);
+}
+
+#change1:hover .code{
+    color: white;
+}

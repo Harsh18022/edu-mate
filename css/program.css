@@ -1,0 +1,12 @@
+#wrap{
+    display: flex;
+    flex-direction: column;
+    padding: -50px;
+}
+
+.course-category-content h3 a{
+
+    color: black;
+    padding-left: 60px;
+
+}

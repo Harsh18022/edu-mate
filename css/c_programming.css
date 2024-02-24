@@ -1,0 +1,15 @@
+#group{
+ display: flex;
+ justify-content: space-evenly;  
+}
+
+section h2{
+    text-decoration: underline;
+}
+
+.course-category-content{
+
+   
+    padding-left: 5rem;
+    
+}

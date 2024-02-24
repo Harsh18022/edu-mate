@@ -1,0 +1,42 @@
+
+
+#layout li{
+    display: flex;
+    position: relative;
+    right: -8%;
+    margin: 10px 0;
+    
+}
+#sub-layout{
+    width: 80vw;    
+    /* display: flex; */
+}
+#sub-layout:hover{
+    background-color: white;
+}
+#sub-layout:hover a{
+    color: #FFB703;
+}
+#sub-layout:hover button{
+    border: 1px solid #050e38;
+    background-color: #FFB703;
+}
+#layout:hover{
+    color: black;
+    gap: 20px;
+    width: 100vw;
+   
+}
+.category-title{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.course-category-content {
+    width: 100%;
+}
+
+.btn-text{
+    font-size: medium;
+    color: white;
+}
